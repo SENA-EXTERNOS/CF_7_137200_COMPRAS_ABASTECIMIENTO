@@ -117,170 +117,174 @@
               img(src="@/assets/curso/temas/Tema2/slider2.svg")
             
     Separador
-
-    #t_2_2
     
-    .titulo-segundo.color-acento-contenido
-      h2 2.2  Condiciones de negociación 
+    .bg7
+      #t_2_2
+      
+      .titulo-segundo.color-acento-contenido
+        h2 2.2  Condiciones de negociación 
+      
+      
+      .row.mt-2.justify-content-center          
+        .col-12  
+          p Una condición es un parámetro que afecta directa o indirectamente a otro, con las cuales se busca que una situación o proceso se lleve a cabo de manera organizada y estandarizada, para que en el transcurso de una negociación no se presenten inconvenientes que puedan perjudicar a las partes. Es por ello que desde un principio se deben dejar establecidas las condiciones que se cumplirán para lograr con total éxito la actividad. Dentro de las condiciones que se interponen en una negociación se encuentran:
 
-    p Una condición es un parámetro que afecta directa o indirectamente a otro, con las cuales se busca que una situación o proceso se lleve a cabo de manera organizada y estandarizada, para que en el transcurso de una negociación no se presenten inconvenientes que puedan perjudicar a las partes. Es por ello que desde un principio se deben dejar establecidas las condiciones que se cumplirán para lograr con total éxito la actividad. Dentro de las condiciones que se interponen en una negociación se encuentran:
+      
+      .row
+        .col-lg-5
+          figure
+            img(src="@/assets/curso/temas/Tema2/img6.png")
 
-    
-    .row
-      .col-lg-5
-        figure
-          img(src="@/assets/curso/temas/Tema2/img6.png")
+        .col-lg-7
+      
+      
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-gris")
+            .row(titulo="Condición 1")
+              .col-md-11.mb-4.mb-md-0
+                p Establecer el asunto principal de la negociación: ya sea una situación cotidiana a la que se le desea brindar solución o la compra/venta de un producto o servicio.
+              
 
-      .col-lg-7
-    
-    
-        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-gris")
-          .row(titulo="Condición 1")
-            .col-md-11.mb-4.mb-md-0
-              p Establecer el asunto principal de la negociación: ya sea una situación cotidiana a la que se le desea brindar solución o la compra/venta de un producto o servicio.
+            .row(titulo="Condición 2")
+              .col-md-11.mb-4.mb-md-0
+                p Determinar cómo se va a realizar el proceso, de manera personal o virtual.
+            .row(titulo="Condición 3")
+              .col-md-11.mb-4.mb-md-0
+                p Definir si el proceso se realizará por medio de intermediarios o de manera directa.
+            .row(titulo="Condición 4")
+              .col-md-11.mb-4.mb-md-0
+                p Instaurar los valores en términos monetarios o en especie por los cuales se va a realizar el negocio.
+            .row(titulo="Condición 5")
+              .col-md-11.mb-4.mb-md-0
+                p Establecer métodos, formas y tiempos para los respectivos pagos.
+            .row(titulo="Condición 6")
+              .col-md-11.mb-4.mb-md-0
+                p Determinar la entrega de los productos o servicios en tiempos de entrega y estado.
+
+            .row(titulo="Condición 7")
+              .col-md-11.mb-4.mb-md-0
+                p Definir las causales para romper el acuerdo por justa causa.
+            .row(titulo="Condición 8")
+              .col-md-11.mb-4.mb-md-0
+                p Determinar el tipo de documento que se va a firmar, el cual servirá de constancia ante un eventual inconveniente que se pueda presentar.
             
+        Separador
 
-          .row(titulo="Condición 2")
-            .col-md-11.mb-4.mb-md-0
-              p Determinar cómo se va a realizar el proceso, de manera personal o virtual.
-          .row(titulo="Condición 3")
-            .col-md-11.mb-4.mb-md-0
-              p Definir si el proceso se realizará por medio de intermediarios o de manera directa.
-          .row(titulo="Condición 4")
-            .col-md-11.mb-4.mb-md-0
-              p Instaurar los valores en términos monetarios o en especie por los cuales se va a realizar el negocio.
-          .row(titulo="Condición 5")
-            .col-md-11.mb-4.mb-md-0
-              p Establecer métodos, formas y tiempos para los respectivos pagos.
-          .row(titulo="Condición 6")
-            .col-md-11.mb-4.mb-md-0
-              p Determinar la entrega de los productos o servicios en tiempos de entrega y estado.
+      #t_2_3
+      
+      .titulo-segundo.color-acento-contenido
+        h2 2.3  Oferta del proveedor 
 
-          .row(titulo="Condición 7")
-            .col-md-11.mb-4.mb-md-0
-              p Definir las causales para romper el acuerdo por justa causa.
-          .row(titulo="Condición 8")
-            .col-md-11.mb-4.mb-md-0
-              p Determinar el tipo de documento que se va a firmar, el cual servirá de constancia ante un eventual inconveniente que se pueda presentar.
-          
+      .row
+        .col-lg-2
+          figure
+            img(src="@/assets/curso/temas/Tema2/img7.png")
+
+        .col-lg-10
+          p La oferta son todos los productos o servicios que pone una empresa con actividad comercial a disposición en el mercado, la cual tiene como objetivo ofrecer sus artículos a un precio acorde a sus características y a lo que se encuentra en venta. Un proveedor es ese tipo de persona, tanto natural como jurídica, que se dedica a la producción de bienes o servicios, semielaborados y terminados, los cuales sirven como insumos o materias primas para otros procesos de fabricación. Es por esto que se conoce como oferta del proveedor las cotizaciones que hacen llegar estas empresas a las diferentes organizaciones que demandan este tipo de materias primas o productos para la fabricación de sus artículos o servicios.
+          p.mt-3 Las entidades dentro de sus procesos de aprovisionamiento tienen unas etapas en las que, por medio de diferentes técnicas, metodologías y estrategias, quieren lograr captar a los proveedores que mejor se ajusten a sus necesidades y requerimientos para llevar su fase productiva con total éxito, siempre buscando el beneficio precio-calidad. Es por ello que estas organizaciones siempre tratan de que las proveedoras envíen sus ofertas y propuestas por medio de una solicitud que ellos mismos han estructurado, la cual deberán diligenciar y suministrar, ya sea por medio de e-mail, en físico o por una plataforma, donde cada uno de ellos deberá depositar la información requerida; este tipo de procedimiento dependerá de lo que disponga cada una de las empresas.
+
       Separador
 
-    #t_2_3
-    
-    .titulo-segundo.color-acento-contenido
-      h2 2.3  Oferta del proveedor 
-
-    .row
-      .col-lg-2
-        figure
-          img(src="@/assets/curso/temas/Tema2/img7.png")
-
-      .col-lg-10
-        p La oferta son todos los productos o servicios que pone una empresa con actividad comercial a disposición en el mercado, la cual tiene como objetivo ofrecer sus artículos a un precio acorde a sus características y a lo que se encuentra en venta. Un proveedor es ese tipo de persona, tanto natural como jurídica, que se dedica a la producción de bienes o servicios, semielaborados y terminados, los cuales sirven como insumos o materias primas para otros procesos de fabricación. Es por esto que se conoce como oferta del proveedor las cotizaciones que hacen llegar estas empresas a las diferentes organizaciones que demandan este tipo de materias primas o productos para la fabricación de sus artículos o servicios.
-        p.mt-3 Las entidades dentro de sus procesos de aprovisionamiento tienen unas etapas en las que, por medio de diferentes técnicas, metodologías y estrategias, quieren lograr captar a los proveedores que mejor se ajusten a sus necesidades y requerimientos para llevar su fase productiva con total éxito, siempre buscando el beneficio precio-calidad. Es por ello que estas organizaciones siempre tratan de que las proveedoras envíen sus ofertas y propuestas por medio de una solicitud que ellos mismos han estructurado, la cual deberán diligenciar y suministrar, ya sea por medio de e-mail, en físico o por una plataforma, donde cada uno de ellos deberá depositar la información requerida; este tipo de procedimiento dependerá de lo que disponga cada una de las empresas.
-
-    Separador
-
-    #t_2_4
-    
-    .titulo-segundo.color-acento-contenido
-      h2 2.4  Cotizaciones
-
-    .row
+      #t_2_4
       
-      .col-lg-6     
-          .cajon.color-secundario.p-4      
-            p Cuando se habla de cotización se hace referencia al documento que contiene información del producto o servicio que se desea vender o comprar, estableciendo el costo a pagar por el comprador. Dentro de los elementos principales que debe contener una cotización se tienen los siguientes:
+      .titulo-segundo.color-acento-contenido
+        h2 2.4  Cotizaciones
+
+      .row
+        
+        .col-lg-6     
+            .cajon.color-secundario.p-4      
+              p Cuando se habla de cotización se hace referencia al documento que contiene información del producto o servicio que se desea vender o comprar, estableciendo el costo a pagar por el comprador. Dentro de los elementos principales que debe contener una cotización se tienen los siguientes:
+        
+        .col-lg-6
+          figure
+            img(src="@/assets/curso/temas/Tema2/img8.png")
       
-      .col-lg-6
+      .row.justify-content-center.align-items-center.my-lg-4.mt-4
         figure
-          img(src="@/assets/curso/temas/Tema2/img8.png")
+            img(src="@/assets/curso/temas/Tema2/img9.png")
+
+      .row.justify-content-center.align-items-center.my-lg-4.mt-5
+        figure
+            img(src="@/assets/curso/temas/Tema2/img10.svg")
+
       
-    .row.justify-content-center.align-items-center.my-lg-4.mt-4
-      figure
-          img(src="@/assets/curso/temas/Tema2/img9.png")
+      h4 #[i.fas.fa-angle-double-right.txt--orange] Elementos de una cotización:
 
-    .row.justify-content-center.align-items-center.my-lg-4.mt-5
-      figure
-          img(src="@/assets/curso/temas/Tema2/img10.svg")
+      p Al momento de realizar una cotización se deben tener en cuenta principalmente los ocho elementos mencionados anteriormente. Dentro de cada uno se deberá incorporar la siguiente información:
 
-    
-    h4 #[i.fas.fa-angle-double-right.txt--orange] Elementos de una cotización:
-
-    p Al momento de realizar una cotización se deben tener en cuenta principalmente los ocho elementos mencionados anteriormente. Dentro de cada uno se deberá incorporar la siguiente información:
-
-    .row
-      .col-lg-4
-        figure
-          img(src="@/assets/curso/temas/Tema2/img11.svg")
-      .col-lg-8
-        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-blanco")
-          .row(titulo="Información de la empresa:")
-            .col-md-11.mb-4.mb-md-0
-              
-              p
-              p.edit Nombre de la empresa:
-              p.edit NIT:
-              p.edit  Nombre representante legal:
-              p.edit  Dirección:
-              p.edit  Teléfono:
-              p.edit Correo electrónico:
-              p.edit  Fax:
-
-          .row(titulo="Datos del cliente:")
-            .col-md-11.mb-4.mb-md-0
-              p
-              p.edit Nombre del cliente/empresa:
-              p.edit NIT:
-              p.edit  Nombre de la persona encargada del área de aprovisionamiento o compras:
-              p.edit  Dirección:
-              p.edit  Teléfono:
-              p.edit Correo electrónico:
-              
-          
-          
-          
-          
-          
-          .row(titulo="Detalles de la cotización:")
-            .col-md-11.mb-4.mb-md-0
-              p
-              p.edit  Número de la cotización:
-              p.edit  Fecha:
-              p.edit  Cuenta bancaria del cliente:
-              p.edit  Válido hasta:
-          
-          
-          
-          .row(titulo="Descripción del producto o servicio:")
-            .col-md-11.mb-4.mb-md-0
-              p
-              p.edit Nombre del producto:
-              p.edit Cantidad:
-                    
-          
-          .row(titulo="Costos:")
-            .col-md-11.mb-4.mb-md-0
-              p
-              p.edit  Precio unitario:
-              p.edit  Precio total:
-              p.edit  Subtotal:
-              p.edit  Impuestos:
-              p.edit  Costo total:              
+      .row
+        .col-lg-4
+          figure
+            img(src="@/assets/curso/temas/Tema2/img11.svg")
+        .col-lg-8
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-blanco")
+            .row(titulo="Información de la empresa:")
+              .col-md-11.mb-4.mb-md-0
                 
-                    
-                    
-          .row(titulo="Entrega:")
-            .col-md-11.mb-4.mb-md-0
-              p Deberá ir especificada la forma de entrega.
+                p
+                p.edit Nombre de la empresa:
+                p.edit NIT:
+                p.edit  Nombre representante legal:
+                p.edit  Dirección:
+                p.edit  Teléfono:
+                p.edit Correo electrónico:
+                p.edit  Fax:
 
-          .row(titulo="Garantía:")
-            .col-md-11.mb-4.mb-md-0
-              p Establecer las garantías que se le brindarán a los productos o servicios.
+            .row(titulo="Datos del cliente:")
+              .col-md-11.mb-4.mb-md-0
+                p
+                p.edit Nombre del cliente/empresa:
+                p.edit NIT:
+                p.edit  Nombre de la persona encargada del área de aprovisionamiento o compras:
+                p.edit  Dirección:
+                p.edit  Teléfono:
+                p.edit Correo electrónico:
+                
+            
+            
+            
+            
+            
+            .row(titulo="Detalles de la cotización:")
+              .col-md-11.mb-4.mb-md-0
+                p
+                p.edit  Número de la cotización:
+                p.edit  Fecha:
+                p.edit  Cuenta bancaria del cliente:
+                p.edit  Válido hasta:
+            
+            
+            
+            .row(titulo="Descripción del producto o servicio:")
+              .col-md-11.mb-4.mb-md-0
+                p
+                p.edit Nombre del producto:
+                p.edit Cantidad:
+                      
+            
+            .row(titulo="Costos:")
+              .col-md-11.mb-4.mb-md-0
+                p
+                p.edit  Precio unitario:
+                p.edit  Precio total:
+                p.edit  Subtotal:
+                p.edit  Impuestos:
+                p.edit  Costo total:              
+                  
+                      
+                      
+            .row(titulo="Entrega:")
+              .col-md-11.mb-4.mb-md-0
+                p Deberá ir especificada la forma de entrega.
 
-          .row(titulo="Términos legales:")
-            .col-md-11.mb-4.mb-md-0
-              p Definir los términos legales que regirán el contrato en caso de efectuar la compra.
+            .row(titulo="Garantía:")
+              .col-md-11.mb-4.mb-md-0
+                p Establecer las garantías que se le brindarán a los productos o servicios.
+
+            .row(titulo="Términos legales:")
+              .col-md-11.mb-4.mb-md-0
+                p Definir los términos legales que regirán el contrato en caso de efectuar la compra.
 
 
 
