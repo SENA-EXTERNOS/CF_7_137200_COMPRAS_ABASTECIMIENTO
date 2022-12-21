@@ -73,7 +73,11 @@
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             p.mb-0 Esta política deberá estar basada y ser coherente con aquellas que son generales y departamentales, teniendo en cuenta elementos como la misión, visión, objetivos y los valores organizacionales. La política de aprovisionamiento puede estar intrínsecamente en la calidad, la cual tendrá también unos principios y metas por alcanzar en cuanto a sus procesos y la excelencia de sus productos o servicios. Para la elaboración de esta política se deberán tener presentes las diferentes normas internacionales, como lo es la ISO 9001, donde se encuentran establecidos los requisitos del sistema de gestión de calidad.
+   
+   
     
+      
+
       Separador
 
     #t_1_2

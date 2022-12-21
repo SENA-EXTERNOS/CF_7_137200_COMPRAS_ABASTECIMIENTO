@@ -6,17 +6,18 @@
       .titulo-principal__numero
         span 2
       h1 Negociación
+    
     .row
       .col-lg-1
         figure
-          img(src="@/assets/curso/temas/Tema2/img1.png")
+          img(src="@/assets/curso/temas/Tema2/img1.svg" width='85px' height='85px' )
 
       
       .col-lg-11     
         .bloque-texto-b.color-primario.p-4
-          .bloque-texto-b__texto
+          .bloque-texto-b
             p.mb-0 Según Fisher, Ury y Patton (1981) “la negociación es un medio básico para lograr lo que queremos del otro. Es una comunicación de doble vía para llegar a un acuerdo, cuando usted y otras personas comparten algunos intereses en común pero también tienen algunos opuestos” (p. 9). Se puede dar de manera verbal o escrita, todo dependerá de lo que dos o más personas involucradas quieran conciliar u obtener con esta técnica de intermediación. Al momento de realizarla se deberá tener en cuenta: 
-
+  
       
         ul.lista-ul--
             li 
@@ -48,7 +49,7 @@
             .row
               .col-lg-2
                 figure
-                  img(src="@/assets/curso/temas/Tema2/img2.png")
+                  img(src="@/assets/curso/temas/Tema2/img2.svg" width='78px' height='78px')
               .col-lg-10
                 p Un buen negociador debe ser ‘influyente’, tratando siempre de mostrar sus fortalezas para lograr convencer a las demás personas, intentando ponerse en su lugar, escuchando, comunicándose con argumentos válidos e intentando permanentemente brindar soluciones que beneficien a las partes implicadas.
       
@@ -57,7 +58,7 @@
             .row
               .col-lg-2
                 figure
-                  img(src="@/assets/curso/temas/Tema2/img3.png")
+                  img(src="@/assets/curso/temas/Tema2/img3.svg" width='78px' height='78px')
               .col-lg-10
                 p Otra característica fundamental y que tendrá mucho peso en la negociación es el ‘conocimiento’ que se tenga tanto de la empresa propia, como de la actividad de los otros negociadores. Para ello, antes de toda actividad de este tipo, se debe investigar profundamente acerca de las partes involucradas, logrando obtener la mayor cantidad de información posible que sea aprovechable para el momento. Pero no simplemente se debe indagar acerca de ellos, también se tiene que explorar acerca de la empresa misma; consensuar con los socios lo que se desea lograr en dicha negociación, teniendo en cuenta la actualidad de los mercados, la competencia y factores externos que puedan afectar la negociación.
 
@@ -65,7 +66,7 @@
             .row
               .col-lg-2
                 figure
-                  img(src="@/assets/curso/temas/Tema2/img4.png")
+                  img(src="@/assets/curso/temas/Tema2/img4.svg" width='78px' height='78px')
               .col-lg-10
                 p Se debe tener clara la ‘metodología’ y técnicas que se van a implementar al momento de llevar a cabo la negociación, la cual deberá estar debidamente planeada, teniendo claridad de cómo se va a ejecutar, direccionar, controlar y evaluar para cometer el mínimo de errores posibles que puedan llegar a afectarla. Dentro de esta planificación se deben tener en cuenta técnicas, tácticas, conocimientos y habilidades que permitan una flexibilidad en el negociador opuesto, y con estas características y atributos, finalizar con total éxito el acuerdo.
 
@@ -86,7 +87,7 @@
 
     p Para (Flint, 2004) ‘las negociaciones pueden ser de tipo distributiva, también llamada ganar-perder, o integrativa, también llamada ganar-ganar’ (p.3). A continuación, conoceremos este tipo de negociaciones:
 
-    .tarjeta.bg1.p-4
+    .tarjeta.bg1.p-4.mt-5
       SlyderA(tipo="b")
         .row
           .col-md-6.mb-4.mb-md-0

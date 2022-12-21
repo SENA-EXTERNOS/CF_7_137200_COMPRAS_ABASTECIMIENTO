@@ -93,7 +93,7 @@
 
         .col-lg-1
           figure
-            img(src="@/assets/curso/temas/Tema3/img3.png")
+            img(src="@/assets/curso/temas/Tema3/img3.svg" width='78px' height='78px')
 
 
       h4.mt-3 Dentro de las características se tienen:
@@ -120,7 +120,7 @@
       .row
         .col-lg-2
           figure
-            img(src="@/assets/curso/temas/Tema3/img5.png")
+            img(src="@/assets/curso/temas/Tema3/img11.svg" width='190px' height='121px')
         .col-lg-8
           .bloque-texto-b.color-primario.p-4
             .bloque-texto-b__texto
