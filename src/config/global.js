@@ -36,20 +36,6 @@ export default {
         numero: '1',
         titulo: 'Políticas de aprovisionamiento',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Alcance',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Características',
-            hash: 't_1_2',
-          },
-        ],
       },
 
       {
@@ -58,32 +44,6 @@ export default {
         numero: '2',
         titulo: 'Negociación ',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Tipos',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Condiciones de negociación',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: '	Oferta del proveedor',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Cotizaciones',
-            hash: 't_2_4',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -91,26 +51,6 @@ export default {
         numero: '3',
         titulo: 'Incoterms',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Tipos',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Características',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Alcance',
-            hash: 't_3_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -118,32 +58,6 @@ export default {
         numero: '4',
         titulo: 'Órdenes de compra',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Tipos',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Formas y métodos de diligenciamiento',
-            hash: 't_4_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.3',
-            titulo: 'Condiciones de las órdenes de compras',
-            hash: 't_4_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.4',
-            titulo: 'Tipos de <em>software</em>',
-            hash: 't_4_4',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -188,7 +102,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'La negociación empresarial',
+      tema: 'Negociación',
       referencia:
         'Flint, P. (2004). <em>La Negociación Empresarial.</em> Esan ediciones',
       tipo: 'PDF',
@@ -196,8 +110,7 @@ export default {
         'https://repositorio.esan.edu.pe/bitstream/handle/20.500.12640/2942/MaterialDidactico4Negociacion.pdf?sequence=1&isAllowed=y ',
     },
     {
-      tema:
-        'Diseño e implementación de políticas empresariales en la empresa CLASEM SAC',
+      tema: 'Políticas de aprovisionamiento',
       referencia:
         'Peña Delgado, K. G. (2019).<em> Diseño e Implementación de políticas empresariales en la empresa</em> CLASEM SAC. [Tesis de pregrado] Repositorio institucional Universidad Nacional Tecnológica de Lima Sur ',
       tipo: 'PDF',
@@ -205,7 +118,7 @@ export default {
         'https://repositorio.untels.edu.pe/jspui/bitstream/123456789/81/1/Pe%C3%B1a_Kimberly_Trabajo_Suficiencia_2019.pdf ',
     },
     {
-      tema: 'Los INCOTERMS y su uso en el comercio internacional',
+      tema: 'Incoterms',
       referencia:
         'Cámara de Comercio de Bogotá (2008). <em>Los INCOTERMS y su uso en el comercio internacional.</em> ',
       tipo: 'PDF',
@@ -213,8 +126,7 @@ export default {
         'https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/3138/3053_Los_INCOTERMS_y_su_uso_en_el_comercio_internacional2.pdf?sequence=1&isAllowed=y ',
     },
     {
-      tema:
-        'Tipos de <em>software</em> de manufactura virtual: una comparación en rendimiento y eficacia en el sector industrial',
+      tema: 'Órdenes de compra',
       referencia:
         'Montalvo, M., & Yudeli, M. (2014). Tipos de <em>software</em> de manufactura virtual: una comparación en rendimiento y eficacia en el sector industrial. [Tesis de pregrado] Repositorio institucional Universidad de Montemorelos ',
       tipo: 'PDF',
@@ -223,6 +135,16 @@ export default {
     },
   ],
   glosario: [
+    {
+      termino: 'Adquisición',
+      significado:
+        'obtención de bienes, servicios, cosas, materias primas o diferentes productos que se alcanzan para poder cumplir con la productividad de la empresa.',
+    },
+    {
+      termino: 'Almacenamiento',
+      significado:
+        'guardado de todas las materias primas, insumos, productos semielaborados y terminados, para lo cual se deberán establecer unos criterios que permitan agrupar la mayor cantidad de mercancía posible de manera ordenada, siempre teniendo presente la buena conservación del producto.',
+    },
     {
       termino: 'Aprovisionamiento',
       significado:
@@ -249,48 +171,30 @@ export default {
         'es el proceso llevado a cabo entre dos o más personas con el fin de llegar a acuerdos, donde cada cual pueda obtener sus beneficios.',
     },
     {
+      termino: 'Oferta',
+      significado:
+        'Capacidad y acción de poner a disposición un producto, un bien, un servicio o cualquier material o cosa que otros puedan obtener para uso, beneficio o satisfacción de necesidades.',
+    },
+    {
       termino: 'Orden',
       significado:
         'es un documento mediante el cual el comprador solicita mercancías al vendedor (Arias, 2020).',
     },
+    {
+      termino: 'Políticas',
+      significado:
+        'son un conjunto de situaciones y decisiones estipuladas por parte de dos o más personas que tienen un alto nivel jerárquico o poder sobre un determinado grupo de individuos que realizan cierto tipo de labores.',
+    },
   ],
   referencias: [
-    {
-      referencia: 'Arias, E. R. (2020). <em>Economipedia.</em> ',
-      link: 'https://economipedia.com/definiciones/orden-de-compra.html ',
-    },
-    {
-      referencia:
-        'Cámara de Comercio de Bogotá (2008). Los INCOTERMS y su uso en el comercio internacional. ',
-    },
     {
       referencia:
         'Fisher, R., Ury, W., & Patton, B. (1981).<em> Getting to YES.</em> Gramedia Pustaka Utama.',
       link: '',
     },
     {
-      referencia:
-        'Flint, P. (2004).<em> La Negociación Empresarial.</em> Esan ediciones',
-      link: '',
-    },
-    {
       referencia: 'Marañón, O. M. (2019). <em>Imeanticipa.</em> ',
       link: 'https://imeanticipa.com/las-7-novedades-de-los-incoterms-2020/ ',
-    },
-
-    {
-      referencia:
-        'Montalvo, M., & Yudeli, M. (2014). <em>Tipos de software de manufactura virtual: una comparación en rendimiento y eficacia en el sector industrial. [Tesis de pregrado] </em> Repositorio institucional Universidad de Montemorelos ',
-      link: '',
-    },
-    {
-      referencia: 'Westreicher, G. (2020).<em> Economipedia.</em> Obtenido de ',
-      link: 'https://economipedia.com/definiciones/aprovisionamiento.html ',
-    },
-    {
-      referencia: 'Westreicher, G. (2020). Economipedia.',
-      link:
-        'https://economipedia.com/definiciones/diferencia-entre-metodo-y-metodologia.html ',
     },
   ],
   creditos: {

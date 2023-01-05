@@ -28,10 +28,10 @@
     
       .row  
         .col-lg-12
-          p.mt-4 La realización y establecimiento de las políticas de aprovisionamiento deberá estar basada en tres actividades fundamentales llevadas a cabo en dicho proceso:
+          p.mb-4 La realización y establecimiento de las políticas de aprovisionamiento deberá estar basada en tres actividades fundamentales llevadas a cabo en dicho proceso:
 
     
-      .row.mt-2.justify-content-center.mt-5
+      .row.mb-2.justify-content-center.mb-5
         .col-lg-12
           ImagenInfografica.color-primario
             template(v-slot:imagen)
@@ -47,56 +47,44 @@
             
             .tarjeta.color-secundario.p-3(x="39%" y="74.5%" numero="3")
               
-              p El último elemento para trabajar es la ‘gestión de inventarios’, donde se deberán instaurar las metodologías, implementación de 
-                i software 
-                | y estrategias para llevar a cabo este proceso de manera óptima, permitiendo que siempre se tengan insumos disponibles para la producción y suficiente stock de productos terminados para que los clientes siempre puedan obtener sus mercancías.em ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
+              p El último elemento para trabajar es la ‘gestión de inventarios’, donde se deberán instaurar las metodologías, implementación de #[em software] y estrategias para llevar a cabo este proceso de manera óptima, permitiendo que siempre se tengan insumos disponibles para la producción y suficiente #[em stock] de productos terminados para que los clientes siempre puedan obtener sus mercancías.
 
       Separador
 
-      #t_1_1
-      
-      .titulo-segundo.color-acento-contenido.mb-5
-        h2 1.1  Alcance
+      h3.mb-5(data-aos="fade-right") Alcance
       
 
       .row
         .col-lg-5
           figure
-                img(src='@/assets/curso/temas/introduccion/img4.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/introduccion/img4.png', alt='Texto que describa la imagen')
 
         .col-lg-7
-          p La política de aprovisionamiento es de tipo ‘específico’ debido a que es elaborada para brindar un orden, donde se establecen unas guías, normas, reglas y pautas a tener en cuenta en todas y cada una de las actividades que se deben realizar en este proceso para que se realice con total éxito, siempre buscando una optimización de recursos tales como el tiempo, dinero, materias primas, etc. que hagan de esta fase un baluarte en la empresa debido a su importancia en el desarrollo de la organización, ya que, si se logra realizar de manera eficiente, los colaboradores encargados de los procesos productivos cumplirán con lo planeado y se disminuirán los errores que puedan costar recursos en términos de dinero.       
+          p La política de aprovisionamiento es de tipo ‘específico’ debido a que es elaborada para brindar un orden, donde se establecen unas guías, normas, reglas y pautas a tener en cuenta en todas y cada una de las actividades que se deben realizar en este proceso para que se realice con total éxito, siempre buscando una optimización de recursos tales como el tiempo, dinero, materias primas, etc. que hagan de esta fase un baluarte en la empresa debido a su importancia en el desarrollo de la organización, ya que, si se logra realizar de manera eficiente, los colaboradores encargados de los procesos productivos cumplirán con lo planeado y se disminuirán los errores que puedan costar recursos en términos de dinero. 
 
-
-    .row
-      .col-lg-12       
-        .bloque-texto-b.color-primario.p-4
-          .bloque-texto-b__texto
+          .cajon.color-primario.p-4.mb-4
             p.mb-0 Esta política deberá estar basada y ser coherente con aquellas que son generales y departamentales, teniendo en cuenta elementos como la misión, visión, objetivos y los valores organizacionales. La política de aprovisionamiento puede estar intrínsecamente en la calidad, la cual tendrá también unos principios y metas por alcanzar en cuanto a sus procesos y la excelencia de sus productos o servicios. Para la elaboración de esta política se deberán tener presentes las diferentes normas internacionales, como lo es la ISO 9001, donde se encuentran establecidos los requisitos del sistema de gestión de calidad.
-   
-   
+
     
       
 
-      Separador
-
-    #t_1_2
-    
-    .titulo-segundo.color-acento-contenido
-      h2 1.2  Características
+    h3.mb-5(data-aos="fade-right") 1.2  Características
 
     p El aprovisionamiento es un proceso fundamental en el desarrollo y productividad de la empresa, buscando siempre realizar una buena elección de los proveedores que puedan brindar productos o servicios de calidad, a un excelente costo y en los tiempos estipulados. Teniendo estos insumos como principal medida, la organización deberá planificar cómo realizar el proceso de almacenamiento y la gestión de los inventarios. De estos aspectos dependerá que tenga un buen funcionamiento, al obtener y fabricar productos o servicios de calidad, buscando siempre mejorar el servicio al cliente, y con ello, su posicionamiento en el mercado nacional o internacional.
-    p.mt-4 Para lograr establecer una eficiente política de aprovisionamiento se deben tener en cuenta algunas características, tales como:
-    .row.mt-2.justify-content-center.mt-5
-      .col-lg-12
+    p.mb-4 Para lograr establecer una eficiente política de aprovisionamiento se deben tener en cuenta algunas características, tales como:
+    .row.mb-2.justify-content-center.mb-5
+      .col-lg-8
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Figura 1.
+          br 
+          span.fst-italic Características de las políticas de aprovisionamiento
         figure
-          img(src='@/assets/curso/temas/introduccion/img5.svg', alt='Texto que describa la imagen')
-
-    .row.mt-4
-          figure
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-            figcaption   VIDEO
+          img(src='@/assets/curso/temas/introduccion/img5.svg', alt='Texto que describa la imagen').mb-4
+    p.mb-5(data-aos='fade-right') Observe con atención el siguiente video, el cual le muestra en detalle, las características de la política de aprovisionamiento:
+    .row.mb-4
+      figure
+        .video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
 
