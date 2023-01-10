@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="90" viewBox="0 0 190 90">
+  <g id="c12" transform="translate(-180 -4393)">
+    <rect id="Rectangle_36775" data-name="Rectangle 36775" width="190" height="90" transform="translate(180 4393)" fill="none"/>
+    <g id="Group_129487" data-name="Group 129487" transform="translate(179.813 3988.043)" opacity="0.2">
+      <g id="Group_129451" data-name="Group 129451" transform="translate(174.724 459.748) rotate(180)">
+        <path id="Path_114977" data-name="Path 114977" d="M12.041,0H0L9.126,19.4,0,38.791H12.041l9.126-19.4Z" transform="translate(0 0)" fill="#d84318"/>
+        <path id="Path_114978" data-name="Path 114978" d="M12.041,0H0L9.126,19.4,0,38.791H12.041l9.126-19.4Z" transform="translate(21.167 0)" fill="#d84318"/>
+        <path id="Path_114979" data-name="Path 114979" d="M12.041,0H0L9.126,19.4,0,38.791H12.041l9.126-19.4Z" transform="translate(42.335 0)" fill="#d84318"/>
+      </g>
+      <g id="Group_129486" data-name="Group 129486" transform="translate(16.187 440.353)">
+        <path id="Path_114977-2" data-name="Path 114977" d="M12.041,0H0L9.126,19.4,0,38.791H12.041l9.126-19.4Z" transform="translate(0 0)" fill="#1b3f5e"/>
+        <path id="Path_114978-2" data-name="Path 114978" d="M12.041,0H0L9.126,19.4,0,38.791H12.041l9.126-19.4Z" transform="translate(21.167 0)" fill="#1b3f5e"/>
+        <path id="Path_114979-2" data-name="Path 114979" d="M12.041,0H0L9.126,19.4,0,38.791H12.041l9.126-19.4Z" transform="translate(42.335 0)" fill="#1b3f5e"/>
+      </g>
+    </g>
+    <g id="cotizacion" transform="translate(184 4380)">
+      <path id="Path_215166" data-name="Path 215166" d="M131.2,105.2H64V24h61.6a5.6,5.6,0,0,1,5.6,5.6Z" transform="translate(-6.6 -6.6)" fill="#f3f9ff"/>
+      <circle id="Ellipse_5140" data-name="Ellipse 5140" cx="12.5" cy="12.5" r="12.5" transform="translate(63 23)" fill="#fff59d"/>
+      <path id="Path_215167" data-name="Path 215167" d="M388.6,29.6v5.6h-8.4v-7A4.2,4.2,0,0,0,376,24h7A5.6,5.6,0,0,1,388.6,29.6Z" transform="translate(-264 -6.6)" fill="#dee4f0"/>
+      <path id="Path_215168" data-name="Path 215168" d="M56,98.6a1.4,1.4,0,0,0,1.4,1.4h67.2a1.4,1.4,0,0,0,1.4-1.4V23a7.008,7.008,0,0,0-7-7H57.4A1.4,1.4,0,0,0,56,17.4ZM123.2,23v4.2h-5.6V21.6a5.565,5.565,0,0,0-.753-2.8H119a4.2,4.2,0,0,1,4.2,4.2ZM58.8,18.8H112a2.8,2.8,0,0,1,2.8,2.8v7a1.4,1.4,0,0,0,1.4,1.4h7V97.2H58.8Z"/>
+      <path id="Path_215169" data-name="Path 215169" d="M340.6,416H329.4a1.4,1.4,0,1,0,0,2.8h11.2a1.4,1.4,0,1,0,0-2.8Z" transform="translate(-224.4 -330)"/>
+      <path id="Path_215170" data-name="Path 215170" d="M287.8,448H265.4a1.4,1.4,0,1,0,0,2.8h22.4a1.4,1.4,0,1,0,0-2.8Z" transform="translate(-171.6 -356.4)"/>
+      <path id="Path_215171" data-name="Path 215171" d="M148.2,84.2a1.4,1.4,0,0,1,1.4,1.4,1.4,1.4,0,1,0,2.8,0,4.207,4.207,0,0,0-2.8-3.959V81.4a1.4,1.4,0,1,0-2.8,0v.241a4.2,4.2,0,0,0,1.4,8.159,1.4,1.4,0,1,1-1.4,1.4,1.4,1.4,0,1,0-2.8,0,4.207,4.207,0,0,0,2.8,3.959V95.4a1.4,1.4,0,0,0,2.8,0v-.241A4.2,4.2,0,0,0,148.2,87a1.4,1.4,0,0,1,0-2.8Z" transform="translate(-72.6 -52.8)"/>
+      <path id="Path_215172" data-name="Path 215172" d="M116,62a14,14,0,1,0-14,14A14,14,0,0,0,116,62ZM102,73.2A11.2,11.2,0,1,1,113.2,62,11.2,11.2,0,0,1,102,73.2Z" transform="translate(-26.4 -26.4)"/>
+      <path id="Path_215173" data-name="Path 215173" d="M111,240h-5.6a1.4,1.4,0,0,0,0,2.8H111a1.4,1.4,0,0,0,0-2.8Z" transform="translate(-39.6 -184.8)"/>
+      <path id="Path_215174" data-name="Path 215174" d="M207.8,240H185.4a1.4,1.4,0,0,0,0,2.8h22.4a1.4,1.4,0,0,0,0-2.8Z" transform="translate(-105.6 -184.8)"/>
+      <path id="Path_215175" data-name="Path 215175" d="M380.2,240h-2.8a1.4,1.4,0,0,0,0,2.8h2.8a1.4,1.4,0,0,0,0-2.8Z" transform="translate(-264 -184.8)"/>
+      <path id="Path_215176" data-name="Path 215176" d="M111,272h-5.6a1.4,1.4,0,0,0,0,2.8H111a1.4,1.4,0,0,0,0-2.8Z" transform="translate(-39.6 -211.2)"/>
+      <path id="Path_215177" data-name="Path 215177" d="M207.8,272H185.4a1.4,1.4,0,0,0,0,2.8h22.4a1.4,1.4,0,0,0,0-2.8Z" transform="translate(-105.6 -211.2)"/>
+      <path id="Path_215178" data-name="Path 215178" d="M380.2,272h-2.8a1.4,1.4,0,0,0,0,2.8h2.8a1.4,1.4,0,0,0,0-2.8Z" transform="translate(-264 -211.2)"/>
+      <path id="Path_215179" data-name="Path 215179" d="M111,304h-5.6a1.4,1.4,0,0,0,0,2.8H111a1.4,1.4,0,0,0,0-2.8Z" transform="translate(-39.6 -237.6)"/>
+      <path id="Path_215180" data-name="Path 215180" d="M207.8,304H185.4a1.4,1.4,0,0,0,0,2.8h22.4a1.4,1.4,0,0,0,0-2.8Z" transform="translate(-105.6 -237.6)"/>
+      <path id="Path_215181" data-name="Path 215181" d="M380.2,304h-2.8a1.4,1.4,0,0,0,0,2.8h2.8a1.4,1.4,0,0,0,0-2.8Z" transform="translate(-264 -237.6)"/>
+      <path id="Path_215182" data-name="Path 215182" d="M111,336h-5.6a1.4,1.4,0,0,0,0,2.8H111a1.4,1.4,0,0,0,0-2.8Z" transform="translate(-39.6 -264)"/>
+      <path id="Path_215183" data-name="Path 215183" d="M207.8,336H185.4a1.4,1.4,0,0,0,0,2.8h22.4a1.4,1.4,0,0,0,0-2.8Z" transform="translate(-105.6 -264)"/>
+      <path id="Path_215184" data-name="Path 215184" d="M380.2,336h-2.8a1.4,1.4,0,0,0,0,2.8h2.8a1.4,1.4,0,0,0,0-2.8Z" transform="translate(-264 -264)"/>
+      <path id="Path_215185" data-name="Path 215185" d="M111,368h-5.6a1.4,1.4,0,0,0,0,2.8H111a1.4,1.4,0,0,0,0-2.8Z" transform="translate(-39.6 -290.4)"/>
+      <path id="Path_215186" data-name="Path 215186" d="M209.2,369.4a1.4,1.4,0,0,0-1.4-1.4H185.4a1.4,1.4,0,1,0,0,2.8h22.4A1.4,1.4,0,0,0,209.2,369.4Z" transform="translate(-105.6 -290.4)"/>
+      <path id="Path_215187" data-name="Path 215187" d="M380.2,368h-2.8a1.4,1.4,0,1,0,0,2.8h2.8a1.4,1.4,0,1,0,0-2.8Z" transform="translate(-264 -290.4)"/>
+      <path id="Path_215188" data-name="Path 215188" d="M327.4,128h-14a1.4,1.4,0,1,0,0,2.8h14a1.4,1.4,0,0,0,0-2.8Z" transform="translate(-211.2 -92.4)"/>
+      <path id="Path_215189" data-name="Path 215189" d="M294.4,160h-21a1.4,1.4,0,0,0,0,2.8h21a1.4,1.4,0,1,0,0-2.8Z" transform="translate(-178.2 -118.8)"/>
+      <path id="Path_215190" data-name="Path 215190" d="M294.4,192h-21a1.4,1.4,0,0,0,0,2.8h21a1.4,1.4,0,1,0,0-2.8Z" transform="translate(-178.2 -145.2)"/>
+    </g>
+  </g>
+</svg>
