@@ -39,13 +39,13 @@
                 img(src='@/assets/curso/temas/introduccion/img3.svg', alt='Texto que describa la imagen')
                 
 
-            .tarjeta.color-secundario.p-3(x="58%" y="18%" numero="1")
+            .tarjeta.color-secundario.p-3(x="58%" y="24%" numero="1")
               
               p La primera actividad es la ‘adquisición’ de las materias primas o diferentes productos que se obtienen para poder cumplir con la productividad de la empresa. Allí se deberán establecer los parámetros para esta actividad y la elección de los proveedores, estipulando la metodología y las técnicas que se van a emplear para que este proceso se lleve a cabo con total éxito, logrando obtener los mejores productos en cuanto a calidad, precio, cumplimiento y estabilidad. 
-            .tarjeta.color-secundario.p-3(x="61.5%" y="74%" numero="2")
+            .tarjeta.color-secundario.p-3(x="61.5%" y="81%" numero="2")
               p La segunda actividad para tener en cuenta es el ‘almacenamiento’ de todas las materias primas, insumos, productos semielaborados y terminados, para lo cual se deberán establecer unos criterios que permitan agrupar la mayor cantidad de mercancía posible de manera ordenada, siempre teniendo presente la buena conservación del producto. 
             
-            .tarjeta.color-secundario.p-3(x="39%" y="74.5%" numero="3")
+            .tarjeta.color-secundario.p-3(x="39%" y="81%" numero="3")
               
               p El último elemento para trabajar es la ‘gestión de inventarios’, donde se deberán instaurar las metodologías, implementación de #[em software] y estrategias para llevar a cabo este proceso de manera óptima, permitiendo que siempre se tengan insumos disponibles para la producción y suficiente #[em stock] de productos terminados para que los clientes siempre puedan obtener sus mercancías.
 
@@ -68,14 +68,14 @@
     
       
 
-    h3.mb-5(data-aos="fade-right") 1.2  Características
+    h3.mb-5(data-aos="fade-right") Características
 
     p El aprovisionamiento es un proceso fundamental en el desarrollo y productividad de la empresa, buscando siempre realizar una buena elección de los proveedores que puedan brindar productos o servicios de calidad, a un excelente costo y en los tiempos estipulados. Teniendo estos insumos como principal medida, la organización deberá planificar cómo realizar el proceso de almacenamiento y la gestión de los inventarios. De estos aspectos dependerá que tenga un buen funcionamiento, al obtener y fabricar productos o servicios de calidad, buscando siempre mejorar el servicio al cliente, y con ello, su posicionamiento en el mercado nacional o internacional.
     p.mb-4 Para lograr establecer una eficiente política de aprovisionamiento se deben tener en cuenta algunas características, tales como:
     .row.mb-2.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 1.
+          h5 Figura 1
           br 
           span.fst-italic Características de las políticas de aprovisionamiento
         figure

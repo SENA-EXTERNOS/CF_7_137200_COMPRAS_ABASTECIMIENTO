@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Estimado aprendiz, se le invita a ver el siguiente mapa mental, donde encontrará una síntesis de todos los elementos desarrollados en este componente formativo acerca de los procesos de compras.
+    p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
     .row.justify-content-center.mt-5
       .col-lg-10.mb-5
         figure

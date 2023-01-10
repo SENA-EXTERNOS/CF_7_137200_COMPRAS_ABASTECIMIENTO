@@ -17,8 +17,8 @@
           img(src="@/assets/curso/temas/Tema4/img1.svg")
       .col-lg-8
         
-            p.mb-0 Pero,
-              b ¿Qué es una orden de compra?
+            p.mb-0 Pero 
+              b ¿qué es una orden de compra?
             p.mt-3 Es un documento elaborado para tener una comunicación eficiente entre proveedor y comprador, evitando así que se quede información en el aire, y al mismo tiempo, para que se pueda contar con un instrumento formal que sirva de constancia por si se presenta cualquier inconveniente legal. Dentro de este documento deberá ir estipulada toda la información acerca del pedido solicitado: lugar de entrega, tipos de productos o servicios, cantidad, precios, métodos y fechas de pago. Este documento puede ser enviado de forma física o digital a través de una plataforma 
               i web 
               | o 
@@ -169,13 +169,12 @@
       .row.justify-content-center.mb-5.align-items-center
         .col-lg-2: img(src='@/assets/curso/temas/Tema4/c2.svg', alt='')
         .col-lg-10
-          p.mb-0 Aprendiz, ha finalizado el estudio de este componente formativo, a continuación encontrará una síntesis para recordar cada temática vista, además de la actividad didáctica y los materiales complementarios para que afiance sus conocimientos frente a la programación, ejecución y revisión del proceso de compras.
-
-      .row.mt-4  
-        .col-lg-12
-          .cajon.color-acento-botones.p-4
+          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
+      //- .row.mt-4  
+      //-   .col-lg-12
+      //-     .cajon.color-acento-botones.p-4
             
-            p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
+      //-       p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 </template>
 

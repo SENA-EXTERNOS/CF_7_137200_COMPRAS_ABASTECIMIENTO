@@ -19,7 +19,7 @@
       Separador
     h3.mb-5(data-aos="fade-right")  Tipos
       
-    p Se tienen reglas Incoterms para transporte marítimo y para cualquier otro tipo de medio de transporte, dentro de las cuales se tienen:
+    p Se tienen reglas Incoterms para transporte marítimo y para cualquier otro tipo de medio de transporte, dentro de las cuales están:
     
     .row.justify-content-center.align-items-center.mt-4
       .col-lg-8
@@ -89,9 +89,9 @@
 
 
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Figura 3.
+      h5 Figura 3
       br
-      span Características de las reglas Incoterms
+      span.fst-italic Características de las reglas Incoterms
 
 
     .row.mt-5
@@ -117,14 +117,16 @@
 
 
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Tabla 1.
+      h5 Tabla 1
+      br
       span.fst-italic Alcance de las reglas incoterms
 
 
     .row
       .col-lg-12
         figure
-          img(src="@/assets/curso/temas/Tema3/img6.png")
+          img(src="@/assets/curso/temas/Tema3/img6.png").mb-3
+        figcaption Nota: ajustado de Marañón (2019).
 
 
 

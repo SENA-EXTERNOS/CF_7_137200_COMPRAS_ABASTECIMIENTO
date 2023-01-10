@@ -22,7 +22,6 @@
         figure
           img(src="@/assets/curso/temas/introduccion/c1.png", alt="Texto que describa la imagen")
 
-    p.mt-3 A continuación, encontrará un video introductorio donde podrá visualizar de forma general las temáticas a desarrollar. ¡Mucha suerte!
 
     .row.mt-4
           figure

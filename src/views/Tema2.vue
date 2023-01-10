@@ -73,7 +73,7 @@
 
 
 
-    h3.mb-5(data-aos="fade-right")  Tipos
+    h3.mb-5(data-aos="fade-right")  Tipos de negociación 
     .row.justify-content-center.mb-5.align-items-center
       .col-lg-2.mb-lg-0.mb-3: img(src='@/assets/curso/temas/Tema2/c1.svg', alt='')
       .col-lg-10  
@@ -187,7 +187,7 @@
       .col-lg-10 
         p.mb-0 Cuando se habla de cotización se hace referencia al documento que contiene información del producto o servicio que se desea vender o comprar, estableciendo el costo a pagar por el comprador. Dentro de los elementos principales que debe contener una cotización se tienen los siguientes:
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Figura 2.
+      h5 Figura 2
       br
       span.fst-italic Elementos clave de la cotización
     .row.justify-content-center.align-items-center.my-lg-4.mb-4
