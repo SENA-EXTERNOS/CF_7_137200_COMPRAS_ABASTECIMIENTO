@@ -109,7 +109,6 @@
             figure
               img(src="@/assets/curso/temas/Tema2/slider2.svg")
             
-    Separador
     h3.mb-5(data-aos="fade-right") Condiciones de negociación
       
     .row.justify-content-center.mb-5
@@ -124,7 +123,7 @@
       
 
     
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-8
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-gris")
           .row(titulo="Establecer el asunto principal de la negociación")
@@ -163,22 +162,21 @@
             .col-md-11.mb-4.mb-md-0
               p Determinar el tipo de documento que se va a firmar, el cual servirá de constancia ante un eventual inconveniente que se pueda presentar.
           
-      Separador
 
     
     h3.mb-5(data-aos="fade-right") Oferta del proveedor 
 
-    .row
+    .row.mb-5
       .col-lg-4
         figure
           img(src="@/assets/curso/temas/Tema2/c11.png")
 
       .col-lg-8
         p La oferta son todos los productos o servicios que pone una empresa con actividad comercial a disposición en el mercado, la cual tiene como objetivo ofrecer sus artículos a un precio acorde a sus características y a lo que se encuentra en venta. Un proveedor es ese tipo de persona, tanto natural como jurídica, que se dedica a la producción de bienes o servicios, semielaborados y terminados, los cuales sirven como insumos o materias primas para otros procesos de fabricación. Es por esto que se conoce como oferta del proveedor las cotizaciones que hacen llegar estas empresas a las diferentes organizaciones que demandan este tipo de materias primas o productos para la fabricación de sus artículos o servicios.
-
+          br
+          br
           |Las entidades dentro de sus procesos de aprovisionamiento tienen unas etapas en las que, por medio de diferentes técnicas, metodologías y estrategias, quieren lograr captar a los proveedores que mejor se ajusten a sus necesidades y requerimientos para llevar su fase productiva con total éxito, siempre buscando el beneficio precio-calidad. Es por ello que estas organizaciones siempre tratan de que las proveedoras envíen sus ofertas y propuestas por medio de una solicitud que ellos mismos han estructurado, la cual deberán diligenciar y suministrar, ya sea por medio de #[em e-mail], en físico o por una plataforma, donde cada uno de ellos deberá depositar la información requerida; este tipo de procedimiento dependerá de lo que disponga cada una de las empresas.
 
-    Separador
 
     h3.mb-5(data-aos="fade-right")  Cotizaciones
 
@@ -192,7 +190,7 @@
       span.fst-italic Elementos clave de la cotización
     .row.justify-content-center.align-items-center.my-lg-4.mb-4
       figure
-          img(src="@/assets/curso/temas/Tema2/img9.png")
+          img(src="@/assets/curso/temas/Tema2/img9.png").mb-4
 
 
     
@@ -203,7 +201,7 @@
     .row.justify-content-center
       .col-lg-8
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-blanco")
-          .row(titulo="Información de la empresa:")
+          .row(titulo="Información de la empresa")
             .col-md-1: img(src='@/assets/curso/temas/Tema2/c13.svg', alt='')
             .col-md-11.mb-4.mb-md-0
               
@@ -216,7 +214,7 @@
               p.edit Correo electrónico:
               p.edit  Fax:
 
-          .row(titulo="Datos del cliente:")
+          .row(titulo="Datos del cliente")
             .col-md-1: img(src='@/assets/curso/temas/Tema2/c14.svg', alt='')
             .col-md-11.mb-4.mb-md-0
               p
@@ -232,7 +230,7 @@
           
           
           
-          .row(titulo="Detalles de la cotización:")
+          .row(titulo="Detalles de la cotización")
             .col-md-1: img(src='@/assets/curso/temas/Tema2/c15.svg', alt='')
             .col-md-11.mb-4.mb-md-0
               p
@@ -243,7 +241,7 @@
           
           
           
-          .row(titulo="Descripción del producto o servicio:")
+          .row(titulo="Descripción del producto o servicio")
             .col-md-1: img(src='@/assets/curso/temas/Tema2/c16.svg', alt='')
             .col-md-11.mb-4.mb-md-0
               p
@@ -251,7 +249,7 @@
               p.edit Cantidad:
                     
           
-          .row(titulo="Costos:")
+          .row(titulo="Costos")
             .col-md-1: img(src='@/assets/curso/temas/Tema2/c17.svg', alt='')
             .col-md-11.mb-4.mb-md-0
               p
@@ -263,17 +261,17 @@
                 
                     
                     
-          .row(titulo="Entrega:")
+          .row(titulo="Entrega")
             .col-md-1: img(src='@/assets/curso/temas/Tema2/c18.svg', alt='')
             .col-md-11.mb-4.mb-md-0
               p Deberá ir especificada la forma de entrega.
 
-          .row(titulo="Garantía:")
+          .row(titulo="Garantía")
             .col-md-1: img(src='@/assets/curso/temas/Tema2/c19.svg', alt='')
             .col-md-11.mb-4.mb-md-0
               p Establecer las garantías que se le brindarán a los productos o servicios.
 
-          .row(titulo="Términos legales:")
+          .row(titulo="Términos legales")
             .col-md-1: img(src='@/assets/curso/temas/Tema2/c20.svg', alt='')
             .col-md-11.mb-4.mb-md-0
               p Definir los términos legales que regirán el contrato en caso de efectuar la compra.

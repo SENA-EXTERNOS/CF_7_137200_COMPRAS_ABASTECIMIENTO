@@ -7,16 +7,15 @@
         span 3
       h1 Incoterms
     
-    .row
-      .col-lg-2
-        figure
-          img(src="@/assets/curso/temas/Tema3/img1.png")
-
-      .col-lg-10
+    .row.mb-5
+      .col-lg-7
         p Cuando dos personas realizan una negociación de tipo internacional, ya sea para importar o exportar mercancías, se deberán establecer una serie de términos, condiciones, derechos y obligaciones dentro del contrato, donde cada uno deberá cumplir con las respectivas responsabilidades asignadas y estipuladas. Dentro de estos criterios se tienen las reglas Incoterms, las cuales se clasifican de diferente manera por medio de tres letras con las cuales se especifica el tipo de operatividad a la que se comprometen cada uno de los participantes en la negociación (comprador y vendedor) en cuanto al transporte de los productos adquiridos, tanto los lugares de entrega, costos de fletes, formas de pago y seguros que cada una de las partes deberá efectuar. Existen reglas específicas para el transporte marítimo y las demás se podrán aplicar para cualquier otro medio de transporte diferente.
+      .col-lg-5
+        figure
+          img(src="@/assets/curso/temas/Tema3/cr1.png")
 
 
-      Separador
+
     h3.mb-5(data-aos="fade-right")  Tipos
       
     p Se tienen reglas Incoterms para transporte marítimo y para cualquier otro tipo de medio de transporte, dentro de las cuales están:
@@ -80,10 +79,10 @@
     
     h3.mb-5(data-aos="fade-right") Características
 
-    .row 
+    .row.mb-4 
       .col-lg-2
         figure
-          img(src="@/assets/curso/temas/Tema3/c1.svg" width='78px' height='78px')
+          img(src="@/assets/curso/temas/Tema3/cr2.svg" width='78px' height='78px')
       .col-lg-10
         p Las reglas Incoterms, como ya se pudo observar, se clasifican en diferentes tipos dependiendo de los acuerdos y de cómo mejor le convenga a cada uno de los participantes, es por ello que cada regla comprende unas características que se deben tener en cuenta para la importación y exportación de las mercancías, en las que los actores deberán hacerse responsables de estas fases según la norma seleccionada.
 
@@ -102,15 +101,14 @@
 
 
 
-      Separador
 
     h3.mb-5(data-aos="fade-right")  Alcance
 
-    .row
+    .row.align-items-center.mb-4
       .col-lg-2
         figure
           img(src="@/assets/curso/temas/Tema3/img11.svg" width='190px' height='121px')
-      .col-lg-8
+      .col-lg-10
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             p.mb-0 Las reglas Incoterms son términos internacionales que comprometen a compradores y vendedores de mercancías para importar o exportar. Anteriormente, se evidenció que se clasifican de diferentes formas según las condiciones impuestas y negociadas, las cuales comprenden unas ciertas características que limitan el alcance de cada una de las obligaciones para los actores de la negociación. A continuación, se ilustrará el alcance de las responsabilidades a las cuales se deben comprometer tanto el comprador como el vendedor, según el tipo de norma que hayan determinado para llevar a cabo la negociación.

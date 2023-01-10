@@ -11,7 +11,7 @@
           .bloque-texto-b__texto
             p Cuando una empresa ha realizado todo el proceso de búsqueda, elección y negociación con los proveedores de acuerdo con políticas, métodos, técnicas y procedimientos, para lograr seleccionar los mejores proveedores de acuerdo con los objetivos que fueron trazados y planificados, se procederá a enviar las órdenes de compra a los proveedores para que envíen los productos requeridos a la empresa, según los parámetros y criterios establecidos en la negociación. 
     
-    .row
+    .row.align-items-center.mb-5
       .col-lg-4
         figure
           img(src="@/assets/curso/temas/Tema4/img1.svg")
@@ -26,7 +26,6 @@
               | especializado.
 
 
-      Separador
 
     
     h3.mb-5(data-aos="fade-right") Tipos
@@ -41,7 +40,7 @@
           p Las órdenes de compra son documentos elaborados para brindar una mejor comunicación entre el comprador y el vendedor. En ellas deberá ir determinado cada uno de los elementos esenciales para dar cumplimiento a la entrega de la mercancía. Estas órdenes se pueden clasificar en cuatro (4) tipos: estándar, planificada, abierta y por contrato:
 
 
-      .row.justify-content-center.align-items-center.mt-4
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-7
           ImagenInfografica.color-primario
             template(v-slot:imagen)
@@ -73,14 +72,8 @@
             .bloque-texto-g__texto.p-4
               p.mb-0 Para llevar a cabo el diligenciamiento de una orden de compra lo principal es tener presente la información pertinente y completa para que no se vayan a presentar inconvenientes con los pedidos, lo cual podría generar malestar en las partes. Es por esto que es de gran importancia dejar claros y estipulados cada uno de los elementos que debe contener, los cuales son:
 
-    .row.justify-content-center.align-items-center.mt-4
-      .col-lg-8
-        p Para llevar a cabo el diligenciamiento de una orden de compra lo principal es tener presente la información pertinente y completa para que no se vayan a presentar inconvenientes con los pedidos, lo cual podría generar malestar en las partes. Es por esto que es de gran importancia dejar claros y estipulados cada uno de los elementos que debe contener, los cuales son:
-      .col-lg-2
-        figure
-          img(src="@/assets/curso/temas/Tema4/img3.svg")
     
-    SlyderF(columnas="col-lg-6 col-xl-4").mt-5
+    SlyderF(columnas="col-lg-6 col-xl-4").mb-5
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-6
@@ -137,7 +130,7 @@
         p.text-center.text-small Firma del encargado de la orden de la compra.
 
 
-    Separador
+    
 
     h3.mb-5(data-aos="fade-right") Condiciones de las órdenes de compras
 
@@ -152,7 +145,7 @@
           p.mt-3 El proveedor deberá #[b precisar las ‘garantías’] con las que le va a responder a su cliente en caso de que sus productos no cumplan con lo determinado en la negociación. En las compras y ventas se incluyen una serie de ‘impuestos’, para ello se deberá determinar entre las partes quien será el encargado de dicho pago y esto debe consignarse en el contrato. Así mismo, las partes deberán #[b acordar las ‘multas’] en las que incurrirá la persona que incumpla con los parámetros acordados. Finalmente, será necesario #[b refrendar un ‘acuerdo de confidencialidad’], por lo cual las partes están obligadas a no divulgar ninguno de los acuerdos firmados.
 
 
-      Separador
+      
 
     h3.mb-5(data-aos="fade-right") Tipos de #[i software] 
 
@@ -166,15 +159,15 @@
         .col-lg-3
           figure
             img(src='@/assets/curso/temas/Tema4/img5.svg' alt='AvatarTop')
-      .row.justify-content-center.mb-5.align-items-center
-        .col-lg-2: img(src='@/assets/curso/temas/Tema4/c2.svg', alt='')
-        .col-lg-10
-          p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
-      //- .row.mt-4  
-      //-   .col-lg-12
-      //-     .cajon.color-acento-botones.p-4
+      //- .row.justify-content-center.mb-5.align-items-center
+      //-   .col-lg-2: img(src='@/assets/curso/temas/Tema4/c2.svg', alt='')
+      //-   .col-lg-10
+      //-     p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
+      .row.mt-4  
+        .col-lg-12
+          .cajon.color-acento-botones.p-4
             
-      //-       p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
+            p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 </template>
 
