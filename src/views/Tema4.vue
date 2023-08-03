@@ -92,42 +92,42 @@
           .col-6
             img(src='@/assets/curso/temas/Tema4/tj3.png' alt='AvatarTop')
         h4.text-center Información del comprador
-        p.text-center.text-small Nombre, identificación, teléfono, correo electrónico y dirección.
+        p.text-center Nombre, identificación, teléfono, correo electrónico y dirección.
 
       .tarjeta.color-acento-contenido.p-1
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/temas/Tema4/tj4.png' alt='AvatarTop')
         h4.text-center Información del vendedor
-        p.text-center.text-small Nombre, identificación, teléfono, correo electrónico y dirección.
+        p.text-center Nombre, identificación, teléfono, correo electrónico y dirección.
 
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/temas/Tema4/tj5.png' alt='AvatarTop')
         h4.text-center Datos de entrega
-        p.text-center.text-small Fecha y lugar.
+        p.text-center Fecha y lugar.
 
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/temas/Tema4/tj6.png' alt='AvatarTop')
         h4.text-center Datos de facturación
-        p.text-center.text-small Dirección de entrega.
+        p.text-center Dirección de entrega.
 
       .tarjeta.color-acento-contenido.p-2
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/temas/Tema4/tj7.png' alt='AvatarTop')
         h4.text-center Datos del pedido
-        p.text-center.text-small Especificaciones del producto o servicio, cantidad, precio unitario, precio final y valor total.
+        p.text-center Especificaciones del producto o servicio, cantidad, precio unitario, precio final y valor total.
 
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/temas/Tema4/tj8.png' alt='AvatarTop')
         h4.text-center Autorización
-        p.text-center.text-small Firma del encargado de la orden de la compra.
+        p.text-center Firma del encargado de la orden de la compra.
 
 
     

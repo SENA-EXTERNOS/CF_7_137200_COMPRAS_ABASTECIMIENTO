@@ -19,7 +19,7 @@
         
         .col-lg-12
           .cajon.color-primario.p-3
-            p.text-small Teniendo en cuenta estos dos conceptos, se puede decir que una política de aprovisionamiento es un documento elaborado de manera consensuada entre dos o más personas que conocen y tienen la facultad de tomar decisiones al respecto de cualquier proceso administrativo de una organización; en este caso, la fase de aprovisionamiento. En el mismo se encontrarán establecidos los parámetros, criterios, actividades, reglas y normas que se deben de tener presentes al momento de ejecución de esta fase por parte de las personas encargadas de llevar a cabo las actividades y labores asignadas. 
+            p Teniendo en cuenta estos dos conceptos, se puede decir que una política de aprovisionamiento es un documento elaborado de manera consensuada entre dos o más personas que conocen y tienen la facultad de tomar decisiones al respecto de cualquier proceso administrativo de una organización; en este caso, la fase de aprovisionamiento. En el mismo se encontrarán establecidos los parámetros, criterios, actividades, reglas y normas que se deben de tener presentes al momento de ejecución de esta fase por parte de las personas encargadas de llevar a cabo las actividades y labores asignadas. 
 
       .col-lg-4
         figure

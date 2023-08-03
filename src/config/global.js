@@ -123,7 +123,7 @@ export default {
         'Cámara de Comercio de Bogotá (2008). <em>Los INCOTERMS y su uso en el comercio internacional.</em> ',
       tipo: 'PDF',
       link:
-        'https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/3138/3053_Los_INCOTERMS_y_su_uso_en_el_comercio_internacional2.pdf?sequence=1&isAllowed=y ',
+        'https://bibliotecadigital.ccb.org.co/items/efbfa1e8-3dd4-4c68-97a1-2fe5403aa448',
     },
     {
       tema: 'Órdenes de compra',
@@ -190,7 +190,8 @@ export default {
     {
       referencia:
         'Fisher, R., Ury, W., & Patton, B. (1981).<em> Getting to YES.</em> Gramedia Pustaka Utama.',
-      link: '',
+      link:
+        'https://www.rhetoricinstitute.edu.gr/wp-content/uploads/2017/09/fisher-getting-to-yes.pdf',
     },
     {
       referencia: 'Marañón, O. M. (2019). <em>Imeanticipa.</em> ',
