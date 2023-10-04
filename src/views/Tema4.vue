@@ -45,7 +45,7 @@
           ImagenInfografica.color-primario
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/temas/Tema4/ptocaliente.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/Tema4/ptocaliente.png', alt='Texto que describa la imagen')
                 
 
             .tarjeta.color-acento-contenido.p-3(x="9%" y="8%" numero="1")

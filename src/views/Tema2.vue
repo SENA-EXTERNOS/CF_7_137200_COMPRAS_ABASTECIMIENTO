@@ -196,7 +196,7 @@
     
     h4 #[i.fas.fa-angle-double-right.txt--orange] Elementos de una cotización:
 
-    p Al momento de realizar una cotización se deben tener en cuenta principalmente los ocho elementos mencionados anteriormente. Dentro de cada uno se deberá incorporar la siguiente información:
+    p Al momento de realizar una cotización se deben tener en cuenta principalmente los nueve elementos mencionados anteriormente. Dentro de cada uno se deberá incorporar la siguiente información:
 
     .row.justify-content-center
       .col-lg-8
