@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="278" viewBox="0 0 820 278">
+  <g id="img5" transform="translate(-390 -2571)">
+    <path id="Polygon_5" data-name="Polygon 5" d="M124.368,21.064a14,14,0,0,1,24.263,0L260.912,216.013A14,14,0,0,1,248.781,237H24.219a14,14,0,0,1-12.132-20.987Z" transform="translate(1210 2808) rotate(180)" fill="#fff59d"/>
+    <path id="Polygon_6" data-name="Polygon 6" d="M124.879,20.968a14,14,0,0,1,24.241,0L261.857,215.994A14,14,0,0,1,249.736,237H24.264a14,14,0,0,1-12.121-21.006Z" transform="translate(937 2808) rotate(180)" fill="#fff59d"/>
+    <path id="Polygon_9" data-name="Polygon 9" d="M124.368,21.064a14,14,0,0,1,24.263,0L260.912,216.013A14,14,0,0,1,248.781,237H24.219a14,14,0,0,1-12.132-20.987Z" transform="translate(527 2612)" fill="#d2e1f1"/>
+    <path id="Polygon_7" data-name="Polygon 7" d="M124.368,21.064a14,14,0,0,1,24.263,0L260.912,216.013A14,14,0,0,1,248.781,237H24.219a14,14,0,0,1-12.132-20.987Z" transform="translate(663 2808) rotate(180)" fill="#fff59d"/>
+    <path id="Polygon_8" data-name="Polygon 8" d="M124.879,20.968a14,14,0,0,1,24.241,0L261.857,215.994A14,14,0,0,1,249.736,237H24.264a14,14,0,0,1-12.121-21.006Z" transform="translate(800 2612)" fill="#d2e1f1"/>
+    <text id="Establecer" transform="translate(448 2615)" fill="#12263f" font-size="32" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="30">Establecer</tspan></text>
+    <text id="Ejecutar" transform="translate(604 2762)" fill="#12263f" font-size="32" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="30">Ejecutar</tspan></text>
+    <text id="Evaluar" transform="translate(884 2762)" fill="#12263f" font-size="32" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="30">Evaluar</tspan></text>
+    <text id="Comunicar" transform="translate(720 2615)" fill="#12263f" font-size="32" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="30">Comunicar</tspan></text>
+    <text id="Direccionar" transform="translate(990 2615)" fill="#12263f" font-size="32" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="30">Direccionar</tspan></text>
+  </g>
+</svg>
