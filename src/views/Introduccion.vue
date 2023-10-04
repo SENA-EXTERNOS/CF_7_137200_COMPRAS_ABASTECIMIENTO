@@ -11,7 +11,7 @@
 
     .row
       .col-lg-7.mt-3
-        p Apreciado aprendiz, bienvenido a este componente formativo, donde usted afianzará afianzará conocimientos relacionados con las políticas de aprovisionamiento, las características y sus alcances. Además, evidenciará cómo se debe realizar una negociación, conociendo los tipos existentes y las condiciones que se deben interponer para que se lleve a cabo de manera responsable y legal.
+        p Apreciado aprendiz, bienvenido a este componente formativo, donde usted afianzará conocimientos relacionados con las políticas de aprovisionamiento, las características y sus alcances. Además, evidenciará cómo se debe realizar una negociación, conociendo los tipos existentes y las condiciones que se deben interponer para que se lleve a cabo de manera responsable y legal.
           br
           br
           |También aprenderá cómo se presentan las ofertas de un proveedor y la importancia de estas, así como la realización de cotizaciones para poder lograr una buena adquisición. Dentro de estas habilidades, es importante que conozca qué es una orden de compra, las clases, importancia y elementos que debe contener. Igualmente, se informará sobre las reglas Incoterms y su relevancia al momento de realizar un intercambio en el exterior, con el fin de que, en caso de que se presente una oportunidad para ello, pueda saber cómo proceder de acuerdo con las mismas.
